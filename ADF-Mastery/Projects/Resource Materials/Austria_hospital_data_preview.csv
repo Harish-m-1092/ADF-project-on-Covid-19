@@ -1,0 +1,43 @@
+country,indicator,date,year_week,value,source,url
+Austria,Daily hospital occupancy,01-04-2020,2020-W14,856,Country_Website,
+Austria,Daily hospital occupancy,02-04-2020,2020-W14,823,Country_Website,
+Austria,Daily hospital occupancy,03-04-2020,2020-W14,829,Country_Website,
+Austria,Daily hospital occupancy,04-04-2020,2020-W14,826,Country_Website,
+Austria,Daily hospital occupancy,05-04-2020,2020-W14,712,Country_Website,
+Austria,Daily hospital occupancy,06-04-2020,2020-W15,824,Country_Website,
+Austria,Daily hospital occupancy,07-04-2020,2020-W15,857,Country_Website,
+Austria,Daily hospital occupancy,08-04-2020,2020-W15,829,Country_Website,
+Austria,Daily hospital occupancy,09-04-2020,2020-W15,820,Country_Website,
+Austria,Daily ICU occupancy,01-04-2020,2020-W14,215,Country_Website,
+Austria,Daily ICU occupancy,02-04-2020,2020-W14,219,Country_Website,
+Austria,Daily ICU occupancy,03-04-2020,2020-W14,245,Country_Website,
+Austria,Daily ICU occupancy,04-04-2020,2020-W14,245,Country_Website,
+Austria,Daily ICU occupancy,05-04-2020,2020-W14,244,Country_Website,
+Austria,Daily ICU occupancy,06-04-2020,2020-W15,250,Country_Website,
+Austria,Daily ICU occupancy,07-04-2020,2020-W15,243,Country_Website,
+Austria,Daily ICU occupancy,08-04-2020,2020-W15,267,Country_Website,
+Austria,Daily ICU occupancy,09-04-2020,2020-W15,266,Country_Website,
+Austria,Daily ICU occupancy,10-04-2020,2020-W15,261,Country_Website,
+Austria,Daily ICU occupancy,11-04-2020,2020-W15,245,Country_Website,
+Belgium,Weekly new hospital admissions per 100k,22-03-2020,2020-W12,12.90281153037932,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,29-03-2020,2020-W13,30.118037054567875,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,05-04-2020,2020-W14,30.737785173438663,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,12-04-2020,2020-W15,24.359544116726802,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,19-04-2020,2020-W16,16.569654567031485,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,26-04-2020,2020-W17,12.222810122173874,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,03-05-2020,2020-W18,7.832927613505792,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,10-05-2020,2020-W19,5.715454874,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,17-05-2020,2020-W20,3.8131724536077645,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,24-05-2020,2020-W21,3.227854785785354,ECDC database compiled from public online sources,NA
+Belgium,Weekly new hospital admissions per 100k,31-05-2020,2020-W22,2.1949412543340405,ECDC database compiled from public online sources,NA
+Cyprus,Weekly new ICU admissions per 100k,22-03-2020,2020-W12,0.6631996065015668,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,29-03-2020,2020-W13,1.5474657485036558,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,05-04-2020,2020-W14,1.2158659452528724,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,12-04-2020,2020-W15,0.8842661420020891,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,19-04-2020,2020-W16,0.3315998032507834,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,26-04-2020,2020-W17,0.22106653550052227,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,03-05-2020,2020-W18,0.11053326775026114,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,10-05-2020,2020-W19,0.11053326775026114,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,02-08-2020,2020-W31,0.11053326775026114,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,09-08-2020,2020-W32,0.11053326775026114,TESSy RESPISURV,NA
+Cyprus,Weekly new ICU admissions per 100k,23-08-2020,2020-W34,0.11053326775026114,TESSy RESPISURV,NA
